@@ -26,6 +26,15 @@
 
 ※使用してみたところ、様々な点が不十分であり、目や口の動きに反応してモナリザの顔が動きはするが、生成されたモナリザの顔は不安定なものである。
 
+## 実装結果
+
+実装した様子を以下に示す。
+
+![demo](docs/data/FOMM.gif)
+
+モナリザの顔の再現は不十分だが、口や目の動きに連動して顔が動いていることは確認できる。
+
+
 ## Credits
 This project is based on the [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model) by Aliaksandr Siarohin.
 
